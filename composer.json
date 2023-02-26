@@ -2,7 +2,7 @@
     "name": "mnabialek/laravel-eloquent-filter",
     "description": "Allows filtering Eloquent queries by input filters",
     "require": {
-        "laravel/framework": "10.*"
+        "laravel/framework": "^10.*"
     },
     "keywords": [
         "laravel",
